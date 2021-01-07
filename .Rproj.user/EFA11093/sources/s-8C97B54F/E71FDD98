@@ -1,0 +1,27 @@
+{
+    "id": "E71FDD98",
+    "path": "~/Documentos/flight_coordination_thyroptera/scripts/flight_3D_animations.Rmd",
+    "project_path": "scripts/flight_3D_animations.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1609975404929.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "195,73",
+        "scrollLine": "180",
+        "chunk_output_type": "console",
+        "disableDependencyDiscovery": "1"
+    },
+    "folds": "14|53|104|0|\n",
+    "lastKnownWriteTime": 1610032814,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610032983946,
+    "read_only": false,
+    "read_only_alternatives": []
+}
